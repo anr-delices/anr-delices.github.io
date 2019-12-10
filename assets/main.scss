@@ -1,0 +1,29 @@
+---
+---
+
+$content-width: 800px;
+$on-palm: 800px;
+$on-laptop: 800px;
+
+@import "{{ site.theme }}";
+
+
+#courriel {
+	font-family: monospace;
+}
+
+p {
+	text-align: justify;
+}
+
+p.decalage {
+	margin-left: 130px;
+}
+
+#img-thumbnail {
+	position: absolute;
+	max-width: 100px;
+    height: auto;
+    margin: auto 0px;
+}
+
