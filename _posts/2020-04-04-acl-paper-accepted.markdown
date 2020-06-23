@@ -5,8 +5,8 @@ date:   2020-04-04
 categories: publications
 ---
 
-Notre article de recherche *Keyphrase Generation for Scientific Document
-Retrieval*, en collaboration avec Ygor Gallina et Akiko Aizawa a été accepté à
+Notre article de recherche *[Keyphrase Generation for Scientific Document
+Retrieval](https://www.aclweb.org/anthology/2020.acl-main.105.pdf)*, en collaboration avec Ygor Gallina et Akiko Aizawa a été accepté à
 la conférence [ACL 2020](https://acl2020.org/).
 
 **Résumé**:
