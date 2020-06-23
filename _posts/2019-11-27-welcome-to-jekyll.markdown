@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Création du site web"
-date:   2019-11-27 17:02:46 +0900
+date:   2019-11-27
 categories: ressources
 ---
 

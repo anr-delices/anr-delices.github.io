@@ -9,7 +9,7 @@ layout: home
 
 {: .decalage}
 **DELICES** (In<u>de</u>xer la <u>li</u>ttérature s<u>c</u>ientifique par <u>e</u>xpansion <u>s</u>émantique) est un projet *Jeune Chercheur* financé par l'[Agence Nationale de la Recherche (ANR)](https://anr.fr/)
-dans le cadre de l'appel à projet générique 2019.
+dans le cadre de l'appel à projet générique 2019 (ANR-19-CE38-0005).
 Le projet est dédié à l'**amélioration** et l'**enrichissement** de l'indexation des articles dans les bibliothèques numériques scientifiques.
 
 Le projet regroupe quatre chercheurs et enseignants-chercheurs :
@@ -33,3 +33,5 @@ s'appuie pour cela sur les dernières avancées en matière de plongements lexic
 et de comparaison sémantique pour à la fois accroître la pertinence des
 termes-clés extraits et étendre l'indexation à de nouveaux termes prélevés sur
 des articles en affinité sémantique forte.
+
+
