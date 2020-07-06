@@ -3,10 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: null
+title: Indexing Scientific Literature Through Semantic Expansion
 ---
-
-# Indexing Scientific Literature Through Semantic Expansion
 
 ![Logo ANR](data/label-ANR-bleu-CMJN.png){: #img-thumbnail}
 
