@@ -5,33 +5,44 @@
 layout: home
 ---
 
-![Picture of Florian Boudin](data/label-ANR-bleu-CMJN.png){: #img-thumbnail}
+# Indexing Scientific Literature Through Semantic Expansion
+
+![Logo ANR](data/label-ANR-bleu-CMJN.png){: #img-thumbnail}
 
 {: .decalage}
-**DELICES** (In<u>de</u>xer la <u>li</u>ttérature s<u>c</u>ientifique par <u>e</u>xpansion <u>s</u>émantique) est un projet *Jeune Chercheur* financé par l'[Agence Nationale de la Recherche (ANR)](https://anr.fr/)
-dans le cadre de l'appel à projet générique 2019 (ANR-19-CE38-0005).
-Le projet est dédié à l'**amélioration** et l'**enrichissement** de l'indexation des articles dans les bibliothèques numériques scientifiques.
+**DELICES** (Indexing Scientific Literature Through Semantic Expansion) is a *Young Researcher* project funded by the French National
+Research Agency ([ANR-19-CE38-0005](https://anr.fr/Projet-ANR-19-CE38-0005)) that started in January 2020 and will end in July 2024.
+This project is intended to improve and enrich paper indexing in scientific digital libraries. 
 
-Le projet regroupe quatre chercheurs et enseignants-chercheurs :
+## Overview
 
-* [Florian Boudin](http://florianboudin.org/) (coordinateur, LS2N - Université de Nantes)
-* [Béatrice Daille](http://bdaille.com/) (LS2N - Université de Nantes)
-* [Evelyne Jacquey](https://perso.atilf.fr/ejacquey/) (CNRS, Université de Lorraine)
-* [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie/) (RALI, Université de Montréal)
+Scientific digital libraries (e.g. arXiv, ACM Digital Library) play a critical role in the development and dissemination of scientific literature.
+They provide researchers with access to millions of scientific articles, as well as an effective way to communicate their findings.
+Despite dedicated search engines, retrieving relevant publications from the ever-growing body of scientific literature remains challenging and time-consuming.
+Indexing scientific articles is indeed a difficult matter, and current models typically relies on a small fraction of the papers content (title and abstract) and on author-assigned keyphrases when available.
+This results in a frustratingly limited access to scientific knowledge.
+The goal of the DELICES project is to address this pitfall by exploiting semantic relations between scientific articles to both improve and enrich indexing.
 
-## Résumé
+## Project Team
 
-Les bibliothèques numériques scientifiques occupent une place primordiale dans
-le développement et la diffusion de la littérature scientifique. Pourtant, la
-navigation et la recherche dans ces bibliothèques reste aujourd'hui une activité
-laborieuse et chronophage, la faute à une indexation partielle et peu
-performante des articles scientifiques. Il en résulte un accès fragmentaire et
-difficile à la littérature scientifique. L'objectif du projet DELICES est de
-combattre cet écueil en exploitant les relations de proximité sémantique entre
-les articles scientifiques pour améliorer et enrichir l'indexation. DELICES
-s'appuie pour cela sur les dernières avancées en matière de plongements lexicaux
-et de comparaison sémantique pour à la fois accroître la pertinence des
-termes-clés extraits et étendre l'indexation à de nouveaux termes prélevés sur
-des articles en affinité sémantique forte.
+{: .team}
+* ![FB](data/FB.png){: .photo_id} [Florian Boudin](http://florianboudin.org/) (PI, LS2N - Université de Nantes)
+* ![BD](data/BD.png){: .photo_id} [Béatrice Daille](http://bdaille.com/) (LS2N - Université de Nantes)
+* ![JD](data/JD.png){: .photo_id} [Evelyne Jacquey](https://perso.atilf.fr/ejacquey/) (CNRS, Université de Lorraine)
+* ![JYN](data/JYN.png){: .photo_id} [Jian-Yun Nie](http://rali.iro.umontreal.ca/nie/jian-yun-nie/) (RALI, Université de Montréal)
+
+## Publications
+
+- Florian Boudin, Ygor Gallina, Akiko Aizawa.
+  **[Keyphrase Generation for Scientific Document Retrieval](https://www.aclweb.org/anthology/2020.acl-main.105.pdf).**
+  *Association for Computational Linguistics (ACL), 2020.*
+
+- Ygor Gallina, Florian Boudin, Béatrice Daille.
+  **[Large-Scale Evaluation of Keyphrase Extraction Models](https://arxiv.org/pdf/2003.04628.pdf).**
+  *Joint Conference on Digital Libraries (JCDL), 2020.*
+
+- Florian Boudin, Béatrice Daille, Evelyne Jacquey, Jian-Yun Nie.
+  **[The DELICES Project: Indexing Scientific Literature Through Semantic Expansion](https://www.irit.fr/CIRCLE/wp-content/uploads/2020/06/CIRCLE20_27.pdf).**
+  *Joint Conference of the Information Retrieval Communities in Europe (CIRCLE), 2020.*
 
 

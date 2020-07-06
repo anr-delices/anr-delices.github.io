@@ -7,14 +7,15 @@ $on-laptop: 800px;
 
 @import "{{ site.theme }}";
 
-
 #courriel {
 	font-family: monospace;
 }
 
+/*
 p {
 	text-align: justify;
 }
+*/
 
 p.decalage {
 	margin-left: 130px;
@@ -29,4 +30,28 @@ p.decalage {
 
 ul.post-list li {
     margin: 0px;
+}
+
+h1 {
+    font-size: 140%;
+}
+
+h2 {
+    font-size: 130%;
+}
+
+h3 {
+    font-size: 110%;
+}
+
+.photo_id {
+    max-width: 50px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin: 2px 0px;
+}
+
+ul.team {
+    list-style: none;
+    margin-left: 0px;
 }
