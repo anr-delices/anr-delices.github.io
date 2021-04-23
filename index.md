@@ -32,6 +32,10 @@ The goal of the DELICES project is to address this pitfall by exploiting semanti
 
 ## Publications
 
+- Florian Boudin, Ygor Gallina.
+  **[Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness](https://arxiv.org/pdf/2103.12440.pdf).**
+  *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2021.*
+
 - Florian Boudin, Ygor Gallina, Akiko Aizawa.
   **[Keyphrase Generation for Scientific Document Retrieval](https://www.aclweb.org/anthology/2020.acl-main.105.pdf).**
   *Association for Computational Linguistics (ACL), 2020.*
@@ -41,7 +45,7 @@ The goal of the DELICES project is to address this pitfall by exploiting semanti
   *Joint Conference on Digital Libraries (JCDL), 2020.*
 
 - Florian Boudin, Béatrice Daille, Evelyne Jacquey, Jian-Yun Nie.
-  **[The DELICES Project: Indexing Scientific Literature Through Semantic Expansion](https://www.irit.fr/CIRCLE/wp-content/uploads/2020/06/CIRCLE20_27.pdf).**
+  **[The DELICES Project: Indexing Scientific Literature Through Semantic Expansion](http://ceur-ws.org/Vol-2621/CIRCLE20_27.pdf).**
   *Joint Conference of the Information Retrieval Communities in Europe (CIRCLE), 2020.*
 
 
