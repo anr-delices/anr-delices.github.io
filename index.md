@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Indexing Scientific Literature Through Semantic Expansion
+title: DELICES homepage
 ---
 
 ![Logo ANR](data/label-ANR-bleu-CMJN.png){: #img-thumbnail}
@@ -32,8 +32,12 @@ The goal of the DELICES project is to address this pitfall by exploiting semanti
 
 ## Publications
 
+- Florian Boudin.
+  **ACM-CR: A Manually Annotated Test Collection for Citation Recommendation.**
+  *Joint Conference on Digital Libraries (JCDL), 2021.*
+
 - Florian Boudin, Ygor Gallina.
-  **[Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness](https://arxiv.org/pdf/2103.12440.pdf).**
+  **[Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness](https://www.aclweb.org/anthology/2020.acl-main.105.pdf).**
   *Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2021.*
 
 - Florian Boudin, Ygor Gallina, Akiko Aizawa.
