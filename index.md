@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: DELICES homepage
+title: About
 ---
 
 ![Logo ANR](data/label-ANR-bleu-CMJN.png){: #img-thumbnail}
