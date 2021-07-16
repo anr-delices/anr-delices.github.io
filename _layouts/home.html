@@ -8,7 +8,19 @@ layout: default
   {%- endif -%}
 
   {%- if page.title == "Publications" -%}
-    <p>coucou</p>
+    <p>coucou2</p>
+    <div id="publications"></div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script>
+    $.getJSON('https://api.archives-ouvertes.fr/search/?q=anrProjectReference_s:ANR-19-CE38-0005&wt=json&sort=publicationDateY_i desc&fl=docid,citationFull_s',
+      function(data) {
+          $.each( data.response.docs, function( i, doc ) {
+            $( "<p>"+doc.citationFull_s+"</p>" ).appendTo( "#publications" );
+          });
+    });
+    </script>
   {%- endif -%}
 
   {{ content }}
