@@ -7,41 +7,37 @@ $on-laptop: 800px;
 
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
 #courriel {
 	font-family: monospace;
 }
 
-/*
-p {
-	text-align: justify;
+.page-link {
+    line-height: 75px;
+    color:red;
 }
-*/
 
 p.decalage {
 	margin-left: 130px;
 }
 
 #img-thumbnail {
-	position: absolute;
-	max-width: 100px;
-    height: auto;
-    margin: auto 0px;
+	max-height: 90px;
+    width: auto;
+    margin: auto 5px;
+}
+
+.site-footer {
+    text-align: center;
 }
 
 ul.post-list li {
     margin: 0px;
-}
-
-h1, h1.page-heading {
-    font-size: 150%;
-}
-
-h2 {
-    font-size: 130%;
-}
-
-h3 {
-    font-size: 110%;
 }
 
 .photo_id {
