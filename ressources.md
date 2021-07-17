@@ -12,4 +12,4 @@ title: Ressources
 
 ## A Manually Annotated Test Collection for Citation Recommendation
 
-[acm-cr](https://github.com/boudinfl/acm-cr) is a repository that contains the test collection for (context-aware) citation recommendation constructed from bibliographic records and open-access papers collected from the ACM Digital Library.
+[acm-cr](https://github.com/boudinfl/acm-cr) is a repository that contains a test collection for (context-aware) citation recommendation constructed from bibliographic records and open-access papers collected from the ACM Digital Library.
